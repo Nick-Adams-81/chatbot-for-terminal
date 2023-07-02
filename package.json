@@ -1,0 +1,12 @@
+{
+  "name": "chatgpt-bot",
+  "version": "1.0.0",
+  "description": "chatbot for your terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nick Adams",
+  "license": "MIT"
+}
